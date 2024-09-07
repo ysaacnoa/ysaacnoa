@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **FrontEnd development**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **vuejs, typescript**
 
 - 📫 How to reach me **ysaac356abaddon@gmail.com**
 
